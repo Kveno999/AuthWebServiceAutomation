@@ -1,0 +1,6 @@
+website:
+  url: "https://mycredo.ge/landing/main/auth"
+  language: "en"
+browser:
+  clientBrowser: "chrome"
+  startMaximized: true
